@@ -18,7 +18,7 @@ namespace HappyTech
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LoginPageForm());
             Environment.Exit(Environment.ExitCode);
-            //GG
+            //GoodMorning
         }
     }
 }
